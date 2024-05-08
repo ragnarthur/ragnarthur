@@ -24,9 +24,9 @@ Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades. Atua
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ragnarthur&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarthur&layout=compact&theme=radical)
 
 ## 📫 Entre em Contato
 
