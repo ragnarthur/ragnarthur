@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou Arthur Araújo.
 
 Seja bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará alguns dos meus projetos, contribuições e experiências. Eu gosto de programar e explorar novas tecnologias. 
 
