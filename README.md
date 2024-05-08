@@ -18,9 +18,9 @@ Aqui estão algumas das principais tecnologias e ferramentas que uso:
 
 Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades. Atualmente, estou me aprofundando em:
 
-- [Tecnologia 1]
-- [Tecnologia 2]
-- [Tecnologia 3]
+- [Automação de tarefas]
+- [Inteligência Artificial com Python]
+- [Análise de Dados]
 
 ## 📈 Estatísticas do GitHub
 
@@ -30,9 +30,8 @@ Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades. Atua
 
 ## 📫 Entre em Contato
 
-- Email: [seuemail@example.com]
-- LinkedIn: [Seu perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- Twitter: [Seu perfil no Twitter](https://twitter.com/seu-usuario)
+- Email: arthuraraujo07@hotmail.com
+- Instagram: www.instagram.com/arthuraraujo07
 
 ---
 
