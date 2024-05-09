@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Arthur Araújo.
 
-Seja bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará alguns dos meus projetos, contribuições e experiências. Eu gosto de programar e explorar novas tecnologias. 
+Seja bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará alguns dos meus projetos, contribuições e experiências. Eu gosto de programar e explorar novas tecnologias.
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -13,14 +13,16 @@ Aqui estão algumas das principais tecnologias e ferramentas que uso:
 - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 - ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+- ![Langchain](https://img.shields.io/badge/-Langchain-000000?logo=langchain&logoColor=white)
 
 ## 🌱 O que estou aprendendo
 
 Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades. Atualmente, estou me aprofundando em:
 
-- [Automação de tarefas]
+- [Automação de Tarefas]
 - [Inteligência Artificial com Python]
 - [Análise de Dados]
+- **Langchain**: Explorando como esta biblioteca pode simplificar fluxos de trabalho de desenvolvimento de inteligência artificial e integração de modelos de linguagem.
 
 ## 📈 Estatísticas do GitHub
 
@@ -31,9 +33,8 @@ Estou sempre aprendendo novas tecnologias e aprimorando minhas habilidades. Atua
 ## 📫 Entre em Contato
 
 - Email: arthuraraujo07@hotmail.com
-- Instagram: www.instagram.com/arthuraraujo07
+- Instagram: [@arthuraraujo07](https://www.instagram.com/arthuraraujo07)
 
 ---
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha alguma dúvida ou proposta. Que tal colaborarmos em um projeto?
-
