@@ -1,12 +1,12 @@
-# 👋 Olá, eu sou Arthur Araújo
+# 👋 Hello, I'm Arthur Araújo
 
-Seja bem-vindo(a) ao meu perfil no GitHub! Sou desenvolvedor apaixonado por explorar novas tecnologias e resolver problemas com software. Sinta-se à vontade para explorar meus repositórios e conferir alguns dos meus projetos, contribuições e experiências.
+Welcome to my GitHub profile! I'm a developer passionate about exploring new technologies and solving problems with software. Feel free to explore my repositories and check out some of my projects, contributions, and experiences.
 
-![Header](https://via.placeholder.com/800x200.png?text=Bem-vindo+ao+Meu+Perfil)
+![Header](https://via.placeholder.com/800x200.png?text=Welcome+to+My+Profile)
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies and Tools
 
-Estas são algumas das principais tecnologias e ferramentas que uso:
+Here are some of the main technologies and tools I use:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -17,27 +17,30 @@ Estas são algumas das principais tecnologias e ferramentas que uso:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Langchain](https://img.shields.io/badge/-Langchain-000000?logo=langchain&logoColor=white)
 
-## 🌱 O que Estou Aprendendo
+## 🌱 What I'm Learning
 
-Sempre estou aprimorando minhas habilidades e me mantendo atualizado com novas tecnologias. Atualmente, estou me aprofundando em:
+I am constantly improving my skills and staying up-to-date with new technologies. Currently, I am delving into:
 
-- **Automação de Tarefas**: Otimizando fluxos de trabalho e tarefas repetitivas.
-- **Inteligência Artificial com Python**: Explorando frameworks para aprendizagem de máquina e processamento de dados.
-- **Análise de Dados**: Desenvolvendo habilidades em análise de dados e visualização.
-- **Langchain**: Estudando como esta biblioteca pode simplificar o desenvolvimento com modelos de linguagem e IA.
+- **Task Automation**: Optimizing workflows and repetitive tasks.
+- **Artificial Intelligence with Python**: Exploring frameworks for machine learning and data processing.
+- **Data Analysis**: Developing skills in data analysis and visualization.
+- **Langchain**: Studying how this library can simplify development with language models and AI.
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Statistics
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ragnarthur&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ragnarthur&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarthur&layout=compact&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarthur&layout=compact&theme=radical)
+## 📫 Contact Me
 
-## 📫 Entre em Contato
-
-- **Email**: arthuraraujo07@hotmail.com
+- **Email**: [arthuraraujo07@hotmail.com](mailto:arthuraraujo07@hotmail.com)
 - **Instagram**: [@arthuraraujo07](https://www.instagram.com/arthuraraujo07)
 
-## 📚 Repositórios em Destaque
+## 📚 Featured Repositories
 
+- [**Análise de Marketing**]([https://github.com/your-username/project-name](https://github.com/ragnarthur/marketing-analysis.git): This repository contains a marketing analytics project using RFM (Recency, Frequency, Monetary) segmentation techniques to categorize customers based on their purchasing behavior.
+- [**ChatBot with OPENAI API**]([https://github.com/your-username/another-project](https://github.com/ragnarthur/chatbot.git): This project uses the OpenAI API to create an intelligent chatbot capable of answering various questions and performing various automated tasks.
 
-Que tal colaborarmos em um projeto? Fique à vontade para entrar em contato caso tenha dúvidas, ideias ou propostas.
+---
+
+Feel free to explore my repositories and get in touch if you have any questions, ideas, or proposals. How about collaborating on a project together?
