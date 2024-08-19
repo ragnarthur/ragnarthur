@@ -17,7 +17,7 @@ Here are some of the main technologies and tools I use:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Langchain](https://img.shields.io/badge/-Langchain-000000?logo=langchain&logoColor=white)
 
-## 🌱 What I'm Learning
+##  What I'm Learning
 
 I am constantly improving my skills and staying up-to-date with new technologies. Currently, I am delving into:
 
