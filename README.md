@@ -1,228 +1,137 @@
 <div align="center">
 
-# 👋 Hi, I'm Arthur Araújo
+Arthur Araújo
 
-### Full-Stack Software Developer
+Desenvolvedor Full Stack
 
-**Python • Django • React • TypeScript • Java 25 • Spring Boot**
+Python • Django • React • TypeScript
 
-Building SaaS platforms, REST APIs, modern web interfaces, automations and data-driven solutions.
+Desenvolvo aplicações web, APIs e produtos digitais com foco em organização, clareza e utilidade real.
 
-[![GitHub](https://img.shields.io/badge/GitHub-ragnarthur-181717?style=for-the-badge\&logo=github)](https://github.com/ragnarthur)
-[![Technology Pro-Arte](https://img.shields.io/badge/Organization-Technology--Pro--Arte-24292F?style=for-the-badge\&logo=github)](https://github.com/Technology-Pro-Arte)
-[![Email](https://img.shields.io/badge/Email-arthuraraujo07%40hotmail.com-0078D4?style=for-the-badge\&logo=microsoftoutlook\&logoColor=white)](mailto:arthuraraujo07@hotmail.com)
+
 
 </div>
 
----
+Sobre mim
 
-## 👨‍💻 About Me
+Sou desenvolvedor full stack e graduando em Engenharia de Software, com experiência na construção de aplicações web, APIs REST e plataformas voltadas à gestão e à organização de informações.
 
-I am a full-stack software developer focused on building practical, secure and scalable web applications.
+No backend, trabalho principalmente com Python, Django e Django REST Framework. No frontend, desenvolvo interfaces com React e TypeScript, integrando aplicações a APIs e criando experiências responsivas para ambientes públicos e administrativos.
 
-My main backend experience is with **Python, Django and Django REST Framework**, developing REST APIs, SaaS platforms, authentication systems, data processing workflows and integrations.
+Também estou aprofundando meus conhecimentos em Java 25, Spring Boot, Spring Data JPA, Hibernate e Maven.
 
-On the frontend, I develop modern and responsive interfaces using **React, TypeScript, Vite, HTML, CSS and Bootstrap**, consuming REST APIs and building dashboards, administrative panels, forms and public portals.
+Além da tecnologia, atuo como professor de música. Essa experiência fortaleceu minha comunicação, didática e capacidade de transformar assuntos complexos em soluções mais claras.
 
-I am also expanding my backend stack with **Java 25, Spring Boot, Spring Data JPA, Hibernate and Maven**.
+Desenvolvimento backend com Python, Django e APIs REST
 
-* 🎓 Software Engineering undergraduate
-* 🐍 Backend development with Python, Django and Django REST Framework
-* ⚛️ Frontend development with React and TypeScript
-* ☕ Studying modern backend development with Java 25 and Spring Boot
-* 🏛️ Experience developing SaaS solutions for municipalities and cultural management
-* 🤖 Interested in artificial intelligence, automation and data analysis
-* 📍 Based in Monte Carmelo, Minas Gerais, Brazil
+Desenvolvimento frontend com React e TypeScript
 
----
+Experiência em produtos digitais para gestão pública e projetos culturais
 
-## 🚀 Technologies and Tools
+Interesse em inteligência artificial, análise de dados e automação
 
-### Backend and APIs
+Localização: Monte Carmelo, Minas Gerais, Brasil
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge\&logo=django\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Java 25](https://img.shields.io/badge/Java%2025-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate\&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+Tecnologias e ferramentas
 
-### Frontend
+Backend e APIs
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge\&logo=chartdotjs\&logoColor=white)
 
-### Data, AI and Automation
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+Frontend
 
-### Databases, Infrastructure and Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
----
+Bancos de dados e infraestrutura
 
-## 🏢 Professional Applications
 
-### Technology-Pro-Arte
 
-I contribute to the development of web platforms maintained within the **Technology-Pro-Arte** GitHub organization.
+Dados, inteligência artificial e automação
 
-These applications follow a full-stack architecture, with frontend interfaces developed using **React and TypeScript** and backend services built primarily with **Python, Django and Django REST Framework**.
 
-> Some repositories are private because they contain proprietary and business-related source code.
 
----
+Tecnologias em aprofundamento
 
-### 🧭 PlanejAI
 
-A SaaS and B2G platform designed to support municipalities in the development and management of Municipal Culture Plans.
 
-#### Main features
+Produtos em que atuo
 
-* Guided planning workflow
-* Municipal profile management
-* Integration with public and demographic data
-* Interactive dashboards and indicators
-* Definition of objectives, goals and action plans
-* Automatic document generation
-* User and municipality access control
-* Multi-tenant data organization
+Technology-Pro-Arte
 
-#### Technology stack
+Participo do desenvolvimento de aplicações mantidas no ecossistema da Technology-Pro-Arte, atuando na construção e integração de frontend e backend.
 
-`Python` `Django` `Django REST Framework` `React` `TypeScript` `PostgreSQL` `Chart.js` `Docker` `Nginx` `GitHub Actions`
+Os produtos utilizam principalmente React e TypeScript no frontend e Python, Django e Django REST Framework no backend.
 
----
+Alguns repositórios são privados por conterem código proprietário e informações de projetos em produção. Por confidencialidade, apresento abaixo apenas o propósito geral de cada produto e as tecnologias utilizadas.
 
-### 🎭 Rede Cultural
+PlanejAI
 
-A public cultural mapping platform for registering artists, cultural agents, groups, organizations, events and cultural spaces.
+Plataforma digital voltada ao apoio da gestão e do planejamento cultural em municípios.
 
-#### Main features
+Minha atuação envolve desenvolvimento full stack, com interfaces em React e TypeScript e serviços de backend construídos com Python, Django e Django REST Framework.
 
-* Registration of cultural agents and organizations
-* Multiple cultural profile types
-* Registration of events and cultural spaces
-* Public cultural directory
-* Administrative approval workflow
-* Interactive forms and persistent registration wizard
-* Geographic data and map integration
-* Authentication and email verification
-* Role-based access control
-* Multi-tenant municipality support
+Tecnologias: Python Django Django REST Framework React TypeScript PostgreSQL
 
-#### Technology stack
+Rede Cultural
 
-`Python` `Django` `Django REST Framework` `React` `TypeScript` `Vite` `PostgreSQL` `PostGIS` `JWT` `Docker` `GitHub Actions`
+Aplicação voltada à presença digital e à organização de iniciativas do ecossistema cultural municipal.
 
----
+Atuo no desenvolvimento das interfaces, na integração com APIs e na evolução dos serviços de backend.
 
-### 📋 Pro-Arte Gestão
+Tecnologias: Python Django Django REST Framework React TypeScript Vite PostgreSQL
 
-An internal management platform for organizing teams, municipalities, activities, tasks and project information.
+Pro-Arte Gestão
 
-#### Main features
+Sistema interno de apoio à organização e ao acompanhamento operacional de projetos.
 
-* Team and user management
-* Municipality management
-* Activity and task tracking
-* Administrative dashboards
-* Access control based on user roles
-* Reports and operational indicators
-* Data isolation between projects and municipalities
-* Integration between frontend and REST APIs
+Minha participação inclui desenvolvimento de interfaces, integração com APIs e manutenção de funcionalidades full stack.
 
-#### Technology stack
+Tecnologias: Python Django Django REST Framework React TypeScript PostgreSQL
 
-`Python` `Django` `Django REST Framework` `React` `TypeScript` `PostgreSQL` `Docker` `Nginx` `GitHub Actions`
+Projeto público em destaque
 
----
+Análise de Marketing com RFM
 
-## 🧩 Full-Stack Architecture
+Projeto de análise de dados voltado à segmentação de clientes por recência, frequência e valor monetário.
 
-The applications developed within Technology-Pro-Arte commonly follow this architecture:
+Ver repositório
 
-```text
-React + TypeScript
-        │
-        │ HTTPS / JSON
-        ▼
-Django REST Framework
-        │
-        ▼
-PostgreSQL / PostGIS
-```
+Tecnologias: Python Pandas Análise de Dados
 
-### Frontend responsibilities
+Estudos atuais
 
-* Development of reusable React components
-* Type-safe development with TypeScript
-* Integration with REST APIs
-* Form validation and error handling
-* Responsive layouts
-* Dashboards and data visualization
-* Authentication flow
-* Route and permission protection
-* Administrative and public interfaces
+Atualmente estou aprofundando meus conhecimentos em:
 
-### Backend responsibilities
+Java 25 e desenvolvimento orientado a objetos
 
-* REST API development
-* Authentication and authorization
-* Business rules
-* Multi-tenant data isolation
-* Database modeling
-* Document generation
-* Public data integrations
-* Audit and security controls
-* Automated tests
-* Deployment and continuous integration
+Spring Boot e construção de APIs REST
 
----
+Spring Data JPA e Hibernate
 
-## 🧠 Current Focus
+Maven e organização de projetos Java
 
-I am currently deepening my knowledge in:
+Arquitetura de software e padrões de projeto
 
-* Java 25 and modern Java development
-* Spring Boot REST APIs
-* Spring Data JPA and Hibernate
-* Maven project structure and dependency management
-* Software architecture and design patterns
-* Automated backend and frontend testing
-* Application security
-* CI/CD with GitHub Actions
-* React architecture and reusable components
-* Artificial intelligence applied to real-world products
+Testes automatizados
 
----
+Segurança de aplicações
 
-## 📈 GitHub Statistics
+Integração e entrega contínuas com GitHub Actions
+
+Arquitetura de aplicações React
+
+Inteligência artificial aplicada a produtos reais
+
+Contato
+
+Email: arthuraraujo07@hotmail.com
+
+GitHub: github.com/ragnarthur
+
+Instagram: @arthuraraujo07
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ragnarthur&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragnarthur&layout=compact&theme=transparent&hide_border=true" />
+Desenvolvimento de software com propósito, clareza e responsabilidade.
 
 </div>
