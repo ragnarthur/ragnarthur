@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Arthur Araújo
 
@@ -195,6 +195,16 @@ Atualmente estou aprofundando meus conhecimentos em:
 - Inteligência artificial aplicada a produtos reais
 
 ---
+
+---
+
+## Atividade no GitHub
+
+<div align="center">
+
+[![Sequência de contribuições no GitHub](https://streak-stats.demolab.com?user=ragnarthur&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=8)](https://github.com/ragnarthur)
+
+</div>
 
 ## Contato
 
